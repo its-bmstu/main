@@ -53,3 +53,5 @@
 Баканчев Никита Иванович, Senior BigData Engineer @ ex-Sber
 
 Матхеев Николай Васильевич, Senior BigData Engineer @ SberCyberSecurity
+
+## ❗️[Записаться на курс](https://forms.gle/3yHRUuBEX2ZgAMtB8)
